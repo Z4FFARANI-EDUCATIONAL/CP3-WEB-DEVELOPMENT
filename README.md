@@ -20,12 +20,12 @@ As categorias presentes são:
 # INSTRUÇÕES
 1. Em um terminal, clonar o repositório:
 ```bash
-git clone https://github.com/Z4FFARANI-EDUCATIONAL/SEM1-CP3-WEB-DEVELOPMENT.git
+git clone https://github.com/Z4FFARANI-EDUCATIONAL/CP3-WEB-DEVELOPMENT.git
 ```
 
 2. No terminal, navegar até a pasta do projeto:
 ```bash
-cd SEM1-CP3-WEB-DEVELOPMENT/site
+cd CP3-WEB-DEVELOPMENT/site
 ```
 
 3. Acessar o site executando o arquivo: `index.html`
